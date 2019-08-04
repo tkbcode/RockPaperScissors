@@ -1,0 +1,6 @@
+C:\Users\timot\source\repos\SummativeSums\bin\Debug\SummativeSums.exe.config
+C:\Users\timot\source\repos\SummativeSums\bin\Debug\SummativeSums.exe
+C:\Users\timot\source\repos\SummativeSums\bin\Debug\SummativeSums.pdb
+C:\Users\timot\source\repos\SummativeSums\obj\Debug\SummativeSums.csproj.CoreCompileInputs.cache
+C:\Users\timot\source\repos\SummativeSums\obj\Debug\SummativeSums.exe
+C:\Users\timot\source\repos\SummativeSums\obj\Debug\SummativeSums.pdb
